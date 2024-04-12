@@ -1,137 +1,204 @@
-[
-    {
-        "key": "dbln",
-        "value": "%7B%22100051523252417%22%3A%22iRJTOx83%22%2C%2261550915069315%22%3A%223xI3iOpd%22%2C%2261557536987220%22%3A%22ERfp7Dxl%22%2C%2261557887169366%22%3A%22EXxX3w0F%22%2C%2261550801619354%22%3A%22TkqHDHHx%22%2C%2261557841958715%22%3A%22f0TPpica%22%2C%2261557862784411%22%3A%22GyzPQyQE%22%2C%2261558367847768%22%3A%228Nn3zMZQ%22%2C%2261558079316631%22%3A%22osNdSlIC%22%2C%2261558281689815%22%3A%22mnkhaMYM%22%7D",
-        "domain": "facebook.com",
-        "path": "/login/device-based/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.439Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+{
+    "language": "en",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "adminOnly": false,
+    "keyAdminOnly": "",
+    "commandDisabled": [
+        "",
+        ""
+    ],
+    "eventDisabled": [],
+    "EMAIL": "0oo3r4wj22@pirolsnet.com",
+    "PASSWORD": "ZEXX786",
+    "OTPKEY": "",
+    "BOTNAME": "𝘽𝙇𝘼𝙕𝙀 🐧❤️",
+    "PREFIX": ".",
+    "OTHERBOT": [
+        ""
+    ],
+    "UNSENTVIP": [
+        "61558035489254",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "GOD": [
+        "61558035489254",
+        "",
+        ""
+    ],
+    "ADMINBOT": [
+        "61558035489254",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "OWNER": "NARUTO",
+    "AGE": "17",
+    "GENDER": "𝗠𝗮𝗟𝗲",
+    "FACEBOOK": "https://www.facebook.com/61558035489254",
+    "AutoOffBot": "disable",
+    "AutoOffBotStartSleep": "disable",
+    "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
+    "AutoOffBotEndSleep": "disable",
+    "AutoGreet": "disable",
+    "AutoGreetWithSticker": "enable",
+    "AutoGreetSendPerHour": "1",
+    "AutoPost": "disable",
+    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=100037743553265 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Priyanshrajput☜",
+    "AutoPostPerHour": "1",
+    "AutoPostGreet": "disable",
+    "AutoPostGreetPostPerHour": "6",
+    "AutoPostChristmasCountdown": "disable",
+    "HolidayAutoGreet": "disable",
+    "ChristmasCountdown": "disable",
+    "AcceptFriendRequest": "accept",
+    "AutoPendingGroupChat": "accept",
+    "AutoBioStatus": "enable",
+    "AutoBioStatusSetPerHour": "1",
+    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=100037743553265 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Priyanshrajput☜",
+    "AutoLeave": "enable",
+    "RandomRedditMemes": "enable",
+    "RandomRedditMemesSendPerHour": "1",
+    "Randombibleverse": "disable",
+    "Uptimelogs": true,
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
     },
-    {
-        "key": "datr",
-        "value": "S6L0ZXgigvgzsUJ0zP6jG15d",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.440Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
     },
-    {
-        "key": "sb",
-        "value": "S6L0ZQqdkj6kQGtQxEZevU7L",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.440Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+    "version": "1.2.14",
+    "help": {
+        "autoUnsend": "",
+        "delayUnsend": 60
     },
-    {
-        "key": "ps_l",
-        "value": "0",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.440Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
     },
-    {
-        "key": "ps_n",
-        "value": "0",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.440Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+    "log": {
+        "enable": true
     },
-    {
-        "key": "dpr",
-        "value": "1.5891023874282837",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.440Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+    "rankup": {
+        "autoUnsend": "",
+        "unsendMessageAfter": 5
     },
-    {
-        "key": "m_ls",
-        "value": "%7B%22100051523252417%22%3A%7B%22c%22%3A%7B%7D%2C%22d%22%3A%2204ece403-01d2-46ee-97e5-f0b89ca66d30%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22hffy6s%22%7D%2C%2261557841958715%22%3A%7B%22c%22%3A%7B%7D%2C%22d%22%3A%2246e80342-2f2e-4b1d-ae2f-28b8cd09d395%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22rnxwbk%22%7D%7D",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.440Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+    "work": {
+        "cooldownTime": 1200000
     },
-    {
-        "key": "fr",
-        "value": "0bqGbp00OTgnH161D.AWUW8KyALWnthoRJ5P_GVCFCWsw.Bl9KJL..AAA.0.0.BmFO0K.AWWn9BJZquw",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.440Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+    "youtube-video": {
+        "YOUTUBE_API": "AIzaSyAV1Ob0n_87tZSmCMorTGE-jHVrAvnXcIM"
     },
-    {
-        "key": "c_user",
-        "value": "61558281689815",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.440Z",
-        "lastAccessed": "2024-04-12T05:33:42.440Z"
+    "linkword": {
+        "APIKEY": ""
     },
-    {
-        "key": "xs",
-        "value": "34%3A1dmaGAFoa97_NA%3A2%3A1712647435%3A-1%3A-1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.441Z",
-        "lastAccessed": "2024-04-12T05:33:42.441Z"
+    "ytb-video": {
+        "YOUTUBE_API": "AIzaSyAV1Ob0n_87tZSmCMorTGE-jHVrAvnXcIM"
     },
-    {
-        "key": "m_page_voice",
-        "value": "61558281689815",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.441Z",
-        "lastAccessed": "2024-04-12T05:33:42.441Z"
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
     },
-    {
-        "key": "wd",
-        "value": "499x897",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.441Z",
-        "lastAccessed": "2024-04-12T05:33:42.441Z"
+    "luật bot": {
+        "autoUnsend": true,
+        "delayUnsend": 30
     },
-    {
-        "key": "locale",
-        "value": "en_IN",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.441Z",
-        "lastAccessed": "2024-04-12T05:33:42.441Z"
+    "lbot": {
+        "autoUnsend": true,
+        "delayUnsend": 30
     },
-    {
-        "key": "vpd",
-        "value": "v1%3B921x499x1.445365309715271",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.441Z",
-        "lastAccessed": "2024-04-12T05:33:42.441Z"
+    "work-beta": {
+        "cooldownTime": 1200000
     },
-    {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2464%3Btimestamp%3A1712899975",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-04-12T05:33:42.441Z",
-        "lastAccessed": "2024-04-12T05:33:42.441Z"
+    "job-beta": {
+        "cooldownTime": 5000
+    },
+    "job": {
+        "cooldownTime": 5000
+    },
+    "sauce": {
+        "SAUCENAO_API": "a2430f4a078a4782540142bfad2551f3384bd20f"
+    },
+    "weather": {
+        "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
+    },
+    "simsimi": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "sim": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "slap": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 19310000
+    },
+    "manslap": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "play": {
+        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8"
+    },
+    "testcovid": {
+        "APIKEY": "Meew_kB5wRAlpHhrAj0GhRzmmLHesvvTbXE"
+    },
+    "fish": {
+        "cooldownTime": 1000000
+    },
+    "simv2": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "simvoice": {
+        "APIKEY": "Meew_hTrAe8Ipec8EsSRsQXoMO7v0XaPgY0"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "slapv2": {
+        "APIKEY": ""
+    },
+    "videov2": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "help2": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "god": {
+        "enable": true
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "messageforrealcreator": {
+        "enable": true
     }
-]
+    }
+    
