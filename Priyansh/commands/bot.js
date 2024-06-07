@@ -56,8 +56,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("Main Hun Naw Jaaneman ❤️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "priyansh") || (event.body.toLowerCase() == "priyansh rajput") || (event.body.toLowerCase() == "priyansh") || (event.body.toLowerCase() == "prince")) {
-     return api.sendMessage( "Busy HoGa Work Me Main t0o Hun Naw 😘",threadID);
+   if ((event.body.toLowerCase() == "priyansh") || (event.body.toLowerCase() == "madarchod") || (event.body.toLowerCase() == "make lode") || (event.body.toLowerCase() == "prince")) {
+     return api.sendMessage( "Terii Maka Bhosda Gali Na De Rk Gang Ka Hu Yahi Patak Kr Chod Duga 🙂🙂😡😡😠😠",threadID);
 
        
    };
@@ -135,8 +135,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️Me toh Andha Hu Dekh nhi sakta", threadID);
    };
 
-   if ((event.body.toLowerCase() == "jai shree ram") || (event.body.toLowerCase() == "ram") || (event.body.toLowerCase() == "ram ram")) {
-    return api.sendMessage("️𝗝𝗮𝗶 𝗦𝗵𝗿𝗲𝗲 𝗥𝗮𝗺 😇", threadID);
+   if ((event.body.toLowerCase() == "Assalamualikum") || (event.body.toLowerCase() == "ram") || (event.body.toLowerCase() == "ram ram")) {
+    return api.sendMessage("️ Walaikum Assalam Jii Bhai Khairyita 😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "bot banake do") || (event.body.toLowerCase() == "mujhe bhi chaiye")) {
