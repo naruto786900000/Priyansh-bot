@@ -41,7 +41,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "bc") || (event.body.toLowerCase() == "bc")) {
-     return api.sendMessage("Ye Bc Kya HoTa Hai 🤔 ", threadID);
+     return api.sendMessage("Gali Na De Bahen Chod Me Chkduga To Rodega Jhantu 🙂🥵🙃 ", threadID);
    };
 
    if ((event.body.toLowerCase() == "lol") || (event.body.toLowerCase() == "lol bot")) {
@@ -71,7 +71,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   if ((event.body.toLowerCase() == "bored") || (event.body.toLowerCase() == "bored hogya ho rha hu")) {
-     return api.sendMessage("Kyu Baithe Ho Khali Subli Bakko Gali Appni Gang Chhod Ke Baki Ki Maki Chut Kali Wali 🙂🤣🤣😂🥵", threadID);
+     return api.sendMessage("Kyu Baithe Ho Khali Sublog Bakko Gali Appni Gang Chhod Ke Baki Ki Maki Chut Kali Wali 🙂🤣🤣😂🥵", threadID);
    };
 
    if ((event.body.toLowerCase() == "shadi karoge") || (event.body.toLowerCase() == "mujhse shadi karoge?")) {
