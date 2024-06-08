@@ -19,9 +19,9 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL })
     }
 
 	var { threadID, messageID } = event;
-	if (event.body.indexOf("@shin chan")==0 || event.body.indexOf("@ẞhîñchañ No Hara")==0 || event.body.indexOf("shin chan")==0 || event.body.indexOf("shinchan")==0) {
+	if (event.body.indexOf("@AMAME KÛN")==0 || event.body.indexOf("AMANE")==0 || event.body.indexOf("shin chan")==0 || event.body.indexOf("FARMAN")==0) {
 		var msg = {
-				body: "ẞhîñchañ ✨💖🥀",
+				body: "FARMAN ✨💖🥀",
 				attachment: fs.createReadStream(__dirname + `/noprefix/Priyansh.png`)
 			}
 			api.sendMessage(msg, threadID, messageID);
